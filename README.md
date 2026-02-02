@@ -1,0 +1,1 @@
+# Check-whether-the-given-integer-is-a-multiple-of-5-Program
